@@ -35,3 +35,10 @@ Pośrednim celem działania chatbotu jest popularyzacja danych z branży energet
 
 ![messenger_chatbot_10](./messenger_chatbot_img/messenger_chatbot_10.png)
 #
+
+### Przydatne linki:
+* [Quick Replies](https://developers.facebook.com/docs/messenger-platform/send-messages/quick-replies)
+* [Button Template](https://developers.facebook.com/docs/messenger-platform/send-messages/template/button)
+* [Generic Template](https://developers.facebook.com/docs/messenger-platform/send-messages/template/generic)
+
+
